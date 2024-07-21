@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **SamTseng/SamTseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently working on some projects related to document similarity checks, which apply information retrieval (IR), natural language processing, image processing, artificial intelligence, and many other theories and techniques from Computer Sciences and Education.
